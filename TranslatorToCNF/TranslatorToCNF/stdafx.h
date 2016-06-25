@@ -9,6 +9,8 @@
 
 #include <stdio.h>
 #include <tchar.h>
+//Добавленно мной:
+#include <iostream>
 
 
 
